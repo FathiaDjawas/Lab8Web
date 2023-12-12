@@ -54,7 +54,7 @@ Untuk menjalankan MySQL Server dari menu XAMPP Control.
     ('Elektronik', 'HP OPPO Android', 'hp_oppo.jpg', 1800000, 2300000, 5);
 
     ```
-   ![Screenshot 2023-11-26 153050](https://github.com/tiaraputriiiiii/Lab8web/assets/115775237/8c2080c1-37fe-4d47-be3c-af6930827c60)
+   ![Screenshot 2023-11-26 153050](https://github.com/FathiaDjawas/Lab8web/assets/115775237/8c2080c1-37fe-4d47-be3c-af6930827c60)
 
 6. **Membuat Program CRUD 7Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs)**
 
@@ -77,14 +77,14 @@ Untuk menjalankan MySQL Server dari menu XAMPP Control.
     Buka melalui browser untuk menguji koneksi database untuk menyampilkan pesan 
     koneksi berhasil, uncomment pada perintah echo “koneksi berhasil”; 
 
-![1](https://github.com/tiaraputriiiiii/Lab8web/assets/115775237/c8c2ad7a-f2d8-432e-a33e-ecc4f109a5df)
+![1](https://github.com/FathiaDjawas/Lab8web/assets/115775237/c8c2ad7a-f2d8-432e-a33e-ecc4f109a5df)
 
 8. **Membuat file index untuk menampilkan data (Read)**
     Buat file baru dengan nama **index.php**
 
     **Akses file -->**[index.php](index.php)
 
-![2](https://github.com/tiaraputriiiiii/Lab8web/assets/115775237/42cdd7c9-3951-4915-9bf1-b297a1d88a4e)
+![2](https://github.com/FathiaDjawas/Lab8web/assets/115775237/42cdd7c9-3951-4915-9bf1-b297a1d88a4e)
 
 
 9. **Menambah Data (Create)**
@@ -92,7 +92,7 @@ Untuk menjalankan MySQL Server dari menu XAMPP Control.
 
     **Akses file -->**[tambah.php](tambah.php)
 
- ![3](https://github.com/tiaraputriiiiii/Lab8web/assets/115775237/fc2530ce-ff57-4973-977c-39ce97cd1705)
+ ![3](https://github.com/FathiaDjawas/Lab8web/assets/115775237/fc2530ce-ff57-4973-977c-39ce97cd1705)
 
 
 10. **Mengubah Data (Update)**
@@ -100,7 +100,7 @@ Untuk menjalankan MySQL Server dari menu XAMPP Control.
 
     **Akses file -->**[ubah.php](ubah.php)
     
-![4](https://github.com/tiaraputriiiiii/Lab8web/assets/115775237/547813b6-0ab2-4f28-a178-ab528543e60a)
+![4](https://github.com/FathiaDjawas/Lab8web/assets/115775237/547813b6-0ab2-4f28-a178-ab528543e60a)
 
 
 12. **Menghapus Data (Delete)**
