@@ -1,10 +1,13 @@
 # Lab8Web
 ```
-Nama    : Fathia Wardah S.Djawas
-NIM     : 312210196
-Kelas   : TI.22.A1
-Matkul  : Pemrograman Web 1
-```
+Nama : Fathia Wardah S.Djawas
+
+NIM : 312210196
+
+Kelas : TI.22.A1
+
+Mata Kuliah : Pemrograman Mobile 1
+
 
 ## **Daftar Isi**
 **[Instruksi Praktikum](#instruksi-praktikum)**         
@@ -122,7 +125,7 @@ Untuk menjalankan MySQL Server dari menu XAMPP Control.
 
 
 
-https://github.com/tiaraputriiiiii/Lab8web/assets/115775237/4670dbc6-4cda-45af-993d-ebb438d5e2c6
+https://github.com/FathiaDjawas/Lab8web/assets/115775237/4670dbc6-4cda-45af-993d-ebb438d5e2c6
 
 
 <hr>
